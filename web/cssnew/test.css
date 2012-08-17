@@ -1,0 +1,16 @@
+/* 
+    Document   : test
+    Created on : Aug 9, 2012, 3:14:38 PM
+    Author     : arun
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+#msg{
+    
+    color: green
+}
+
